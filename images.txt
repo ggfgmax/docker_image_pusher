@@ -10,3 +10,5 @@ alpine:3.20.3
 ubuntu:24.04
 mysql:8.0.39
 redis:7.4-alpine
+us-central1-docker.pkg.dev/keephq/keep/keep-api
+us-central1-docker.pkg.dev/keephq/keep/keep-ui
